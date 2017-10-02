@@ -73,17 +73,19 @@ var name1 = 'sumon';
 console.log();
 ~~~
 
-* to showing something in dom using alert
-~~~js
+* to showing something in dom using alert   
+~~~js 
 alert();
-~~~
+~~~   
 
-* to select a id
+
+* to select a id    
+
 ~~~js
 var hello = document.getElementById('hello');
-~~
+~~~
 
-* to select a write html in dom
+* to select a write html in dom   
 ~~~js
 hello.innerHTML = "<h1>heading created by javascript</h1>";
 ~~
