@@ -64,3 +64,39 @@ var name1 = 'sumon';
 ~~~js
 + - * / % = > < == ===  ++ --
 ~~~
+
+
+# Document Object Model (DOM) - Web API
+
+* to showing something in console
+~~~js
+console.log();
+~~~
+
+* to showing something in dom using alert
+~~~js
+alert();
+~~~
+
+* to select a id
+~~~js
+var hello = document.getElementById('hello');
+~~
+
+* to select a write html in dom
+~~~js
+hello.innerHTML = "<h1>heading created by javascript</h1>";
+~~
+
+
+
+
+
+
+
+
+
+
+
+
+
