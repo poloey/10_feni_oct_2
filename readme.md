@@ -23,7 +23,18 @@
 * Control flow
   * iterative
     ~~~js
-    for, while, foreach  
+    //for, while, foreach  
+
+    for (var number = 0; number < 3; number ++ ) {
+      names[number]
+    }
+    for (name in names) {
+      name 
+    }
+    while(true/false) {
+      'some code execute';
+      'condition';
+    }
     ~~~
   * conditional
     ~~~js
