@@ -13,7 +13,13 @@
     var names = ['sumon', 'sarwar', 'imran']  
     names[0] //sarwar
     ~~~
-    * Object names = {name1 : 'sumon', name2 : 'sarwar', name3 : 'imran'}  // names['name2'] // names.name2
+    * Object
+    ~~~js
+    names = {name1 : 'sumon', name2 : 'sarwar', name3 : 'imran'} 
+    names['name2']   //sarwar
+    //or
+    names.name2 //sarwar
+    ~~~
 * Control flow
   * iterative
     ~~~js
