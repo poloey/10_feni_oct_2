@@ -37,8 +37,6 @@ if (false) {
 //iterative control flow
 for (var number = 0; number < 3; number ++ ) {
   names[number]
-
-
 }
 for (name in names) {
   name 
