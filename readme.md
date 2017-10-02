@@ -88,7 +88,7 @@ var hello = document.getElementById('hello');
 * to select a write html in dom   
 ~~~js
 hello.innerHTML = "<h1>heading created by javascript</h1>";
-~~
+~~~
 
 
 
