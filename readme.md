@@ -1,5 +1,7 @@
-# programming 101 with javaScript
+# Class 10 
 ### View [all class list](https://github.com/poloey/feni)
+
+# programming 101 with javaScript
 * Datatype
   * Scalar type (who holds only one value)
     * Numbers
