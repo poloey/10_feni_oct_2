@@ -1,4 +1,4 @@
-# programming 101
+# programming 101 with javaScript
 
 * Datatype
   * Scalar type (who holds only one value)
@@ -23,22 +23,31 @@
 * Control flow
   * iterative
     ~~~js
+    //while 
+    var number = 0;
+    while(number < 3 ) {
+      names[number];
+      number = number + 1;
+    }
     //for, while, foreach  
 
     for (var number = 0; number < 3; number ++ ) {
       names[number]
     }
-    for (name in names) {
-      name 
-    }
-    while(true/false) {
-      'some code execute';
-      'condition';
+    for (number in names) {
+      names[number]
     }
     ~~~
   * conditional
     ~~~js
     if, else, else if, elseif
+    if (true/false) {
+       'if true';
+    } else if (true / false) {
+      'if this block is true';
+    } else {
+      'any if block is not true'
+    }
     ~~~
 * Variable
 ~~~js
@@ -51,6 +60,7 @@ var name1 = 'sumon';
   name1 = 'sumon';
   name1.toUpperCase() = SUMON
   ~~~
+
   User Defined function   
   ~~~js
   function add (number1, number2) {
@@ -62,8 +72,13 @@ var name1 = 'sumon';
   
 * operator
 ~~~js
-+ - * / % = > < == ===  ++ --
++ - * / % = > < == ===  ++ -- | 
 ~~~
+`%` (Modulus) returns the division remainder    
+`++` increse something by 1    
+`--` decrese something by 1    
+`==` equal check    
+`===` identity check (equl check + datatype check)    
 
 
 # Document Object Model (DOM) - Web API
