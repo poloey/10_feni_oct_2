@@ -75,8 +75,8 @@ var name1 = 'sumon';
 + - * / % = > < == ===  ++ -- | 
 ~~~
 `%` (Modulus) returns the division remainder    
-`++` increse something by 1    
-`--` decrese something by 1    
+`++` increse by 1    
+`--` decrese by 1    
 `==` equal check    
 `===` identity check (equl check + datatype check)    
 
