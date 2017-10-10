@@ -1,5 +1,5 @@
 # Class 10 
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
 
 # programming 101 with javaScript
 * Datatype
