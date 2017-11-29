@@ -68,8 +68,8 @@ var name1 = 'sumon';
   function add (number1, number2) {
     return number1 + number2;
   }
-  add(2+3);
-  add(5+3);
+  add(2, 3);
+  add(5, 3);
   ~~~
   
 * operator
