@@ -1,4 +1,3 @@
-# [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 # Class 10 
 
 # programming 101 with javaScript
